@@ -1,0 +1,352 @@
+[ 2017-03-03T22:19:00+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.005001s ]
+SQL: SELECT `cat_id` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+
+[ 2017-03-03T22:19:46+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.006000s ]
+SQL: SELECT `cat_id` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+
+[ 2017-03-03T22:30:15+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.005000s ]
+SQL: SELECT `cat_id` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '1' LIMIT 1   [ RunTime:0.000000s ]
+
+[ 2017-03-03T22:36:18+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.043002s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.006001s ]
+SQL: SELECT `cat_id`,`goods_name` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '1' LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-03T22:37:01+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.005000s ]
+SQL: SELECT `cat_id`,`goods_name` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '1' LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-03T22:37:22+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.005000s ]
+SQL: SELECT `cat_id`,`goods_name` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '1' LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-03T22:37:36+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.005001s ]
+SQL: SELECT `cat_id`,`goods_name` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '1' LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-03T22:39:14+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\CategoryModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\CategoryModel.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `mgs_category` [ RunTime:0.008001s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) D:\phpStudy\WWW\0220\shop\Application\Admin\Model\GoodsModel.class.php 第 350 行.
+SQL: SHOW COLUMNS FROM `mgs_goods` [ RunTime:0.006000s ]
+SQL: SELECT `cat_id`,`goods_name` FROM `mgs_goods` WHERE `id` = '51' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '6' LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `id`,`cat_name`,`parent_id` FROM `mgs_category` WHERE `id` = '1' LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 150 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [8] Undefined index: children D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\0220\shop\Application\Runtime\Cache\Home\862a52d698112494831f0f0bc6d3727d.php 第 146 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-03T22:39:44+08:00 ] 127.0.0.1 /Index.php/Home/Index/goods/id/51.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+
